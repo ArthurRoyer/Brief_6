@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="04b52849-ef23-4067-86e0-9092c913687a" name="Changes" comment="Go" />
+    <list default="true" id="04b52849-ef23-4067-86e0-9092c913687a" name="Changes" comment="Go">
+      <change beforePath="$PROJECT_DIR$/brief_6.db" beforeDir="false" afterPath="$PROJECT_DIR$/brief_6.db" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -106,22 +108,19 @@
       <option name="project" value="LOCAL" />
       <updated>1728046108921</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Go">
+      <option name="closed" value="true" />
+      <created>1728046593862</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1728046593862</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Go" />
     <option name="LAST_COMMIT_MESSAGE" value="Go" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Brief_6.py</url>
-          <line>102</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

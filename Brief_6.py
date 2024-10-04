@@ -65,6 +65,10 @@ except Exception as e:
 conn.commit()
 
 
+print("-----------------------------------------------------")
+print("-----------------------------------------------------")
+
+
 # Extraction des clients ayant consenti à recevoir des communications marketing
 print("Les clients ayant consenti à recevoir des communications marketing sont :")
 cursor.execute("SELECT * FROM Client WHERE Consentement_Marketing = 1")
