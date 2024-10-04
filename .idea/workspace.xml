@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="04b52849-ef23-4067-86e0-9092c913687a" name="Changes" comment="Go">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Brief_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Brief_6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/brief_6.db" beforeDir="false" afterPath="$PROJECT_DIR$/brief_6.db" afterDir="false" />
-    </list>
+    <list default="true" id="04b52849-ef23-4067-86e0-9092c913687a" name="Changes" comment="Go" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -102,7 +98,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728043972479</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Go">
+      <option name="closed" value="true" />
+      <created>1728046108921</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1728046108921</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
