@@ -7,9 +7,7 @@
     <list default="true" id="04b52849-ef23-4067-86e0-9092c913687a" name="Changes" comment="Go">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Brief_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Brief_6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MCD_Brif_6.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/MCD_Brif_6.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jeu-de-donnees-clients-66fed38c68779376654152.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jeu-de-donnees-commandes-66fe65226fdb5678959707.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/brief_6.db" beforeDir="false" afterPath="$PROJECT_DIR$/brief_6.db" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,11 +86,38 @@
       <option name="project" value="LOCAL" />
       <updated>1728037823849</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Go">
+      <option name="closed" value="true" />
+      <created>1728043964340</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1728043964340</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Go">
+      <option name="closed" value="true" />
+      <created>1728043972479</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1728043972479</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Go" />
     <option name="LAST_COMMIT_MESSAGE" value="Go" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Brief_6.py</url>
+          <line>102</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
