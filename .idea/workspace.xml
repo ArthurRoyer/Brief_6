@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="04b52849-ef23-4067-86e0-9092c913687a" name="Changes" comment="Go">
-      <change afterPath="$PROJECT_DIR$/jeu-de-donnees-clients-66fed38c68779376654152.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeu-de-donnees-commandes-66fe65226fdb5678959707.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Brief_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Brief_6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MCD_Brif_6.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/MCD_Brif_6.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jeu-de-donnees-clients-66fed38c68779376654152.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jeu-de-donnees-commandes-66fe65226fdb5678959707.csv" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,8 +49,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Brief_6.executor": "Run",
+    "Python.SqLite.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Utilisateur/PycharmProjects/Brief5"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -76,7 +80,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728036377716</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Go">
+      <option name="closed" value="true" />
+      <created>1728037823849</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1728037823849</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
